@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="FlightSearchSuite">
+    <test name="FlightSearchTest">
+        <classes>
+            <class name="src.main.test.FlightBookingAutomation"/>
+        </classes>
+    </test>
+</suite>
